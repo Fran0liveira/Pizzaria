@@ -1,0 +1,34 @@
+C:\Users\joaov\Desktop\Oficina C#\Aula1_Avancado\Aula1_Avancado\obj\Debug\Aula1_Avancado.csprojAssemblyReference.cache
+C:\Users\joaov\Desktop\Oficina C#\Aula1_Avancado\Aula1_Avancado\obj\Debug\Aula1_Avancado.Form1.resources
+C:\Users\joaov\Desktop\Oficina C#\Aula1_Avancado\Aula1_Avancado\obj\Debug\Aula1_Avancado.Properties.Resources.resources
+C:\Users\joaov\Desktop\Oficina C#\Aula1_Avancado\Aula1_Avancado\obj\Debug\Aula1_Avancado.csproj.GenerateResource.cache
+C:\Users\joaov\Desktop\Oficina C#\Aula1_Avancado\Aula1_Avancado\obj\Debug\Aula1_Avancado.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\Oficina C#\Aula1_Avancado\Aula1_Avancado\bin\Debug\Aula1_Avancado.exe.config
+C:\Users\joaov\Desktop\Oficina C#\Aula1_Avancado\Aula1_Avancado\bin\Debug\Aula1_Avancado.exe
+C:\Users\joaov\Desktop\Oficina C#\Aula1_Avancado\Aula1_Avancado\bin\Debug\Aula1_Avancado.pdb
+C:\Users\joaov\Desktop\Oficina C#\Aula1_Avancado\Aula1_Avancado\obj\Debug\Aula1_Avancado.exe
+C:\Users\joaov\Desktop\Oficina C#\Aula1_Avancado\Aula1_Avancado\obj\Debug\Aula1_Avancado.pdb
+C:\Users\mateu\Downloads\Avancado-master\Aula1_Avancado\Aula1_Avancado\bin\Debug\Aula1_Avancado.exe.config
+C:\Users\mateu\Downloads\Avancado-master\Aula1_Avancado\Aula1_Avancado\bin\Debug\Aula1_Avancado.exe
+C:\Users\mateu\Downloads\Avancado-master\Aula1_Avancado\Aula1_Avancado\bin\Debug\Aula1_Avancado.pdb
+C:\Users\mateu\Downloads\Avancado-master\Aula1_Avancado\Aula1_Avancado\obj\Debug\Aula1_Avancado.csprojAssemblyReference.cache
+C:\Users\mateu\Downloads\Avancado-master\Aula1_Avancado\Aula1_Avancado\obj\Debug\Aula1_Avancado.Form1.resources
+C:\Users\mateu\Downloads\Avancado-master\Aula1_Avancado\Aula1_Avancado\obj\Debug\Aula1_Avancado.Properties.Resources.resources
+C:\Users\mateu\Downloads\Avancado-master\Aula1_Avancado\Aula1_Avancado\obj\Debug\Aula1_Avancado.csproj.GenerateResource.cache
+C:\Users\mateu\Downloads\Avancado-master\Aula1_Avancado\Aula1_Avancado\obj\Debug\Aula1_Avancado.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Downloads\Avancado-master\Aula1_Avancado\Aula1_Avancado\obj\Debug\Aula1_Avancado.exe
+C:\Users\mateu\Downloads\Avancado-master\Aula1_Avancado\Aula1_Avancado\obj\Debug\Aula1_Avancado.pdb
+C:\Users\joaov\Downloads\Avancado-master\Avancado-master\Aula1_Avancado\Aula1_Avancado\bin\Debug\Aula1_Avancado.exe.config
+C:\Users\joaov\Downloads\Avancado-master\Avancado-master\Aula1_Avancado\Aula1_Avancado\bin\Debug\Aula1_Avancado.exe
+C:\Users\joaov\Downloads\Avancado-master\Avancado-master\Aula1_Avancado\Aula1_Avancado\bin\Debug\Aula1_Avancado.pdb
+C:\Users\joaov\Downloads\Avancado-master\Avancado-master\Aula1_Avancado\Aula1_Avancado\obj\Debug\Aula1_Avancado.csprojAssemblyReference.cache
+C:\Users\joaov\Downloads\Avancado-master\Avancado-master\Aula1_Avancado\Aula1_Avancado\obj\Debug\Aula1_Avancado.Properties.Resources.resources
+C:\Users\joaov\Downloads\Avancado-master\Avancado-master\Aula1_Avancado\Aula1_Avancado\obj\Debug\Aula1_Avancado.Telas.Home.resources
+C:\Users\joaov\Downloads\Avancado-master\Avancado-master\Aula1_Avancado\Aula1_Avancado\obj\Debug\Aula1_Avancado.csproj.GenerateResource.cache
+C:\Users\joaov\Downloads\Avancado-master\Avancado-master\Aula1_Avancado\Aula1_Avancado\obj\Debug\Aula1_Avancado.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Downloads\Avancado-master\Avancado-master\Aula1_Avancado\Aula1_Avancado\obj\Debug\Aula1_Avancado.exe
+C:\Users\joaov\Downloads\Avancado-master\Avancado-master\Aula1_Avancado\Aula1_Avancado\obj\Debug\Aula1_Avancado.pdb
+C:\Users\joaov\Downloads\Avancado-master\Avancado-master\Aula1_Avancado\Aula1_Avancado\obj\Debug\Aula1_Avancado.Telas.frm_cliente1.resources
+C:\Users\aluno\Downloads\Avancado-master\Avancado-master\Aula1_Avancado\Aula1_Avancado\bin\Debug\Aula1_Avancado.exe.config
+C:\Users\aluno\Downloads\Avancado-master\Avancado-master\Aula1_Avancado\Aula1_Avancado\obj\Debug\Aula1_Avancado.exe
+C:\Users\aluno\Downloads\Avancado-master\Avancado-master\Aula1_Avancado\Aula1_Avancado\obj\Debug\Aula1_Avancado.pdb
