@@ -32,3 +32,14 @@ C:\Users\joaov\Downloads\Avancado-master\Avancado-master\Aula1_Avancado\Aula1_Av
 C:\Users\aluno\Downloads\Avancado-master\Avancado-master\Aula1_Avancado\Aula1_Avancado\bin\Debug\Aula1_Avancado.exe.config
 C:\Users\aluno\Downloads\Avancado-master\Avancado-master\Aula1_Avancado\Aula1_Avancado\obj\Debug\Aula1_Avancado.exe
 C:\Users\aluno\Downloads\Avancado-master\Avancado-master\Aula1_Avancado\Aula1_Avancado\obj\Debug\Aula1_Avancado.pdb
+C:\Users\aluno\Downloads\Pizzaria-master\Pizzaria-master\Aula1_Avancado\bin\Debug\Aula1_Avancado.exe.config
+C:\Users\aluno\Downloads\Pizzaria-master\Pizzaria-master\Aula1_Avancado\obj\Debug\Aula1_Avancado.exe
+C:\Users\aluno\Downloads\Pizzaria-master\Pizzaria-master\Aula1_Avancado\obj\Debug\Aula1_Avancado.pdb
+C:\Users\aluno\Downloads\Pizzaria-master\Pizzaria-master\Aula1_Avancado\obj\Debug\Aula1_Avancado.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Downloads\Pizzaria-master\Pizzaria-master\Aula1_Avancado\obj\Debug\Aula1_Avancado.Properties.Resources.resources
+C:\Users\aluno\Downloads\Pizzaria-master\Pizzaria-master\Aula1_Avancado\obj\Debug\Aula1_Avancado.Telas.frm_cliente1.resources
+C:\Users\aluno\Downloads\Pizzaria-master\Pizzaria-master\Aula1_Avancado\obj\Debug\Aula1_Avancado.Telas.frm_funcionario.resources
+C:\Users\aluno\Downloads\Pizzaria-master\Pizzaria-master\Aula1_Avancado\obj\Debug\Aula1_Avancado.Telas.Home.resources
+C:\Users\aluno\Downloads\Pizzaria-master\Pizzaria-master\Aula1_Avancado\obj\Debug\Aula1_Avancado.csproj.GenerateResource.Cache
+C:\Users\aluno\Downloads\Pizzaria-master\Pizzaria-master\Aula1_Avancado\bin\Debug\Aula1_Avancado.exe
+C:\Users\aluno\Downloads\Pizzaria-master\Pizzaria-master\Aula1_Avancado\bin\Debug\Aula1_Avancado.pdb

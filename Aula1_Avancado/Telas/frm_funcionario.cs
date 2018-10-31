@@ -16,5 +16,10 @@ namespace Aula1_Avancado.Telas
         {
             InitializeComponent();
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

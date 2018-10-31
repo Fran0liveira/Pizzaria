@@ -68,10 +68,10 @@ namespace Aula1_Avancado.DAO
                 try
                 {
                     //Variavel que armazenar um comando sql
-                    string cmdsql = $"update TB_ALUNO set " +
+                    string cmdsql = $"update cliente set " +
                                        $"nome_cli = '{obj.Nome_cli}'," +
-                                       $"tel_cli = '{obj.Cel_cli}'," +
-                                       $"cel_aluno = '{obj.Tel_cli}'" +
+                                       $"tel_cli = '{obj.Tel_cli}'," +
+                                       $"cel_aluno = '{obj.Cel_cli}'" +
                                        $"where id_cli ='{obj.Id_cli}' ";
 
 
@@ -109,8 +109,8 @@ namespace Aula1_Avancado.DAO
                 try
                 {
                     //Variavel que armazenar um comando sql
-                    string cmdsql = $"delete from TB_ALUNO "+
-                                    $"where id_aluno ='{obj.Id_cli}' ";
+                    string cmdsql = $"delete from cliente "+
+                                    $"where id_cli ='{obj.Id_cli}' ";
 
 
                     SqlCommand executesql = new SqlCommand(cmdsql, connection);
